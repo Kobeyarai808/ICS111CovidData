@@ -8,11 +8,11 @@ Project can be viewed on GitHub at https://github.com/Kobeyarai808/ICS111CovidDa
 For any questions, comments, or concerns, please contact Kobey Arai at kobeya@hawaii.edu
 
 
-#Instructions on running pre-compiled file
+# Instructions on running pre-compiled file
 - Install Java, any version should work. Program was written in Java 16. 
 - Click the Assignment12.jar file
 
-#Running using Source Code
+# Running using Source Code
 - Install IntelliJ IDEA
 - Import project to IntelliJ IDEA
 - Run using the button on the top
